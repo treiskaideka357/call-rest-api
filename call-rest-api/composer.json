@@ -1,9 +1,9 @@
 {
-  "name": "brunopicci/call-rest-api",
+  "name": "treiskaideka357/call-rest-api",
   "type": "symfony-bundle",
   "description": "This bundle implements a service to call rest api",
   "keywords": ["rest"],
-  "homepage": "https://github.com/brunopicci/call-rest-api",
+  "homepage": "https://github.com/treiskaideka357/call-rest-api",
   "license": "MIT",
   "require": {
     "php": "^5.3.3 || ^7.0"
